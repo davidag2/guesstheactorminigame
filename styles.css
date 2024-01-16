@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#game-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+#actor-img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#actor-input {
+    margin-top: 20px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+#submit-btn {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+}
+
+#next-btn {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
